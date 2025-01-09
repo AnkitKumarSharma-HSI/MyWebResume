@@ -348,9 +348,7 @@ h6 {
   padding-top: 5px;
 }
 
-/*--------------------------------------------------------------
-# Preloader
---------------------------------------------------------------*/
+
 #preloader {
   position: fixed;
   inset: 0;
@@ -769,9 +767,7 @@ section,
   border: 2px solid var(--accent-color);
 }
 
-/*--------------------------------------------------------------
-# Portfolio Section
---------------------------------------------------------------*/
+
 .portfolio .portfolio-filters {
   padding: 0;
   margin: 0 auto 20px auto;
@@ -1475,5 +1471,5 @@ section,
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 26px;
+  font-size: 25px;
 }
